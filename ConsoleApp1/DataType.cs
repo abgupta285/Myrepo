@@ -14,8 +14,8 @@ namespace ConsoleApp1
             int a = 10;
             a = 20;
             float c= 10.112f; 
-            Console.WriteLine("Value of Integer the variables are:"+a);
-            Console.WriteLine("Value of Integer the variables are:" + c);
+            Console.WriteLine("Value of Integer variables are:"+a);
+            Console.WriteLine("Value of float variables are:" + c);
             bool b = true;
             b = false;
             Console.WriteLine("Value of boolean the variables are:" +b);
